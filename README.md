@@ -1,2 +1,2 @@
-# ShowCase001
-Showcase for checking “Theme” and “Attributes”.
+# My job career showCase.
+Showcase for my job careers.
